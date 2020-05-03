@@ -5,10 +5,42 @@ body {
 .jumbotron {
 	text-align: center;
 	background-color: brown;
+	height: auto;
+	margin-top:0;
 	
+}
+
+.navbar.navbar-dark {
+	margin-bottom: 0;
+	background-color: goldenrod;
+}
+
+.nav > li > a:hover{
+    background-color: burlywood;
 }
 
 #jumboText {
   color: antiquewhite;
 	text-align: center;
+}
+
+#jumboSubText {
+  color: antiquewhite;
+	text-align: center;
+}
+
+.navText{
+	color: antiquewhite;
+}
+
+.navbar-brand{
+	color: brown;
+}
+
+.navbar-toggle{
+	background-color: brown;
+}
+
+.icon-bar{
+	background-color: antiquewhite;
 }
