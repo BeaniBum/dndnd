@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+}
+
+.jumbotron {
+	text-align: center;
+	background-color: brown;
+	
+}
+
+#jumboText {
+  color: antiquewhite;
+	text-align: center;
+}
