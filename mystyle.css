@@ -84,13 +84,15 @@ body {
 	color: antiquewhite;
 }
 
-.row{
-	height: 600px;
-}
+
+
 
 .col-sm-4{
 	padding-bottom: 50px;
 }
+
+
+
 
 .footer {
   position: relative;
@@ -101,3 +103,5 @@ body {
   color: #000000;
   text-align: center;
 }
+
+
